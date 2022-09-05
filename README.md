@@ -1,7 +1,7 @@
 <h2> Hello! :speech_balloon: </h2>
 <h1> My name is Tiago Braga Costa :mens: </h1>
 
-<hr> :pushpin: </hr>
+<hr />
 
 <h3> :busts_in_silhouette: About Me </h3>
 
@@ -13,6 +13,12 @@
   I really do enjoy work in applications using React + Redux and CSS. There's nothing better than
   seeing an application with a great response and cool designs.
 </p>
+
+<hr />
+
+<h3> :file_folder: Repositories </h3>
+
+<p> You can see my repos below this readme, I'll be updating them as long I'm working on them!
 
 <hr />
 
