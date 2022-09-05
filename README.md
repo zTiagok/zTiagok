@@ -12,6 +12,7 @@
   seeing an application with a great response and cool designs.
 </p>
 
+<hr> </hr>
 
 <h3> Contacts </h3>
 <span> Email: <a href="mailto:ztiagok@gmail.com"> ztiagok@gmail.com </a> <span>
