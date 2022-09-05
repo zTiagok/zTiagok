@@ -20,10 +20,8 @@
     seeing an application with a great response and cool designs.
   </p>
 
-  <br />
-  
+  <br /> <br />
   <hr />
-
 
   <h3> :file_folder: Repositories :file_folder: </h3>
 
