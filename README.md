@@ -23,17 +23,6 @@
   <p> You can see my repos below this README, I'll be updating them as long I'm working on them!
 
   <hr />
-
-  <h3> :telephone_receiver: Contacts :telephone_receiver: </h3>
-  
-  <div>
-    <a href="mailto:ztiagok@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email"> </a>
-    <a href="https://www.linkedin.com/in/ztiagok/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"> </a>
-    <a href="https://wa.me/5524988116847"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"> </a>
-        <a href="https://www.instagram.com/z.tiago.k/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a>
-  </div>
-
-  <hr />
   
   <h3> 💻 Technologies and Methodologies 💻 </h3>
   
@@ -48,4 +37,23 @@
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" target="_blank">
   </div>
     <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" target"_blank">
+  
+  <hr />
+
+  <h3> :chart_with_upwards_trend: Stats :chart_with_upwards_trend: </h3>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zTiagok" />
+  
+  <hr />
+
+  <h3> :telephone_receiver: Contacts :telephone_receiver: </h3>
+  
+  <div>
+    <a href="mailto:ztiagok@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email"> </a>
+    <a href="https://www.linkedin.com/in/ztiagok/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"> </a>
+    <a href="https://wa.me/5524988116847"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"> </a>
+        <a href="https://www.instagram.com/z.tiago.k/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a>
+  </div>
 </div>
+
+
