@@ -3,11 +3,11 @@
 
 <br>
 
+<h3> About me </h3>
+
 <p> 
   I'm a Full-stack Web Developer Student at Trybe, but my main focus is on Front-end.
 </p>
-
-<br>
 
 <p>
   I really do enjoy work in applications using React + Redux and CSS. There's nothing better than
