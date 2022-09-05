@@ -7,7 +7,7 @@
 
   <h3> :busts_in_silhouette: About Me :busts_in_silhouette: </h3>
 
-  <div width="200">
+  <div width=200>
   <p> 
     I'm a Full-stack Web Developer Student at Trybe, but my main focus is on Front-end.
   </p>
