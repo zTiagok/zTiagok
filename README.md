@@ -26,10 +26,9 @@
 
   <h3> :telephone_receiver: Contacts :telephone_receiver: </h3>
   
-  <div style="text-decoration: none">
-    <a href="mailto:ztiagok@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"           target="_blank"> </a>
-    <a href="https://www.linkedin.com/in/ztiagok/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-                         badge&logo=linkedin&logoColor=white"> </a>
-  </div>
+  <a href="mailto:ztiagok@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"           target="_blank"> </a>
+ 
+  <a href="https://www.linkedin.com/in/ztiagok/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-                         badge&logo=linkedin&logoColor=white" target="_blank"> </a>
 
     <br>
   <span> WhatsApp: <a href="https://wa.me/5524988116847"> Redirect Me! </a> </span>
