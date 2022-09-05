@@ -62,7 +62,7 @@
   <hr />
 </div>
 
-<div>
+<div align="center">
   <h3> Projects <h3>
   
   <details open>
