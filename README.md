@@ -7,6 +7,7 @@
 
   <h3> :busts_in_silhouette: About Me :busts_in_silhouette: </h3>
 
+  <div width="200">
   <p> 
     I'm a Full-stack Web Developer Student at Trybe, but my main focus is on Front-end.
   </p>
@@ -15,6 +16,8 @@
     I really do enjoy work in applications using React + Redux and CSS. There's nothing better than
     seeing an application with a great response and cool designs.
   </p>
+    
+  </div>
 
   <hr />
 
