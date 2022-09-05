@@ -1,9 +1,9 @@
 <h2> Hello! :speech_balloon: </h2>
 <h1> My name is Tiago Braga Costa :mens: </h1>
 
-<hr />
+<hr> :pushpin: </hr>
 
-<h3> About Me </h3>
+<h3> :busts_in_silhouette: About Me </h3>
 
 <p> 
   I'm a Full-stack Web Developer Student at Trybe, but my main focus is on Front-end.
@@ -16,7 +16,7 @@
 
 <hr />
 
-<h3> Contacts </h3>
+<h3> :telephone_receiver: Contacts </h3>
 <span> Email: <a href="mailto:ztiagok@gmail.com"> ztiagok@gmail.com </a> <span>
   <br>
 <span> LinkedIn: <a href="https://www.linkedin.com/in/ztiagok/"> Tiago Braga Costa </a> </span>
