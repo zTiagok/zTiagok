@@ -19,12 +19,14 @@
     seeing an application with a great response and cool designs.
   </p>
 
+  <br>
   <hr />
 
   <h3> :file_folder: Repositories :file_folder: </h3>
 
   <p> You can see my repos below this README, I'll be updating them as long I'm working on them!
 
+  <br>
   <hr />
   
   <h3> 💻 Technologies and Methodologies 💻 </h3>
@@ -41,6 +43,7 @@
   </div>
     <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" target"_blank">
   
+  <br>
   <hr />
 
   <h3> :chart_with_upwards_trend: Stats :chart_with_upwards_trend: </h3>
@@ -48,6 +51,7 @@
   <img width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zTiagok" />
   <img width="433.5em" src="https://github-readme-stats.vercel.app/api?username=zTiagok" />
   
+  <br>
   <hr />
 
   <h3> :telephone_receiver: Contacts :telephone_receiver: </h3>
@@ -59,6 +63,7 @@
         <a href="https://www.instagram.com/z.tiago.k/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a>
   </div>
 
+  <br>
   <hr />
   
   <h3> :mag: Projects Summary :mag: <h3>
