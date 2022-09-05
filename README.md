@@ -7,7 +7,7 @@
   I'm a Full-stack Web Developer Student at Trybe, but my main focus is on Front-end.
 </span>
 
-<br> <br>
+<br>
 
 <span>
   I really do enjoy work in applications using React + Redux and CSS. There's nothing more refreshing than
