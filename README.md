@@ -30,6 +30,7 @@
 
   <br /> <br />
   <hr />
+  <br />
   
   <h3> 💻 Technologies and Methodologies 💻 </h3>
   
@@ -45,7 +46,7 @@
   </div>
     <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" target"_blank">
   
-  <br>
+  <br /> <br />
   <hr />
 
   <h3> :chart_with_upwards_trend: Stats :chart_with_upwards_trend: </h3>
