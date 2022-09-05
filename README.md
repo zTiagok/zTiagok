@@ -7,7 +7,6 @@
 
   <h3> :busts_in_silhouette: About Me :busts_in_silhouette: </h3>
 
-  <div width=200>
   <p> 
     I'm a Full-stack Web Developer Student at Trybe, but my main focus is on Front-end.
   </p>
@@ -16,8 +15,6 @@
     I really do enjoy work in applications using React + Redux and CSS. There's nothing better than
     seeing an application with a great response and cool designs.
   </p>
-    
-  </div>
 
   <hr />
 
@@ -28,7 +25,7 @@
   <hr />
 
   <h3> :telephone_receiver: Contacts :telephone_receiver: </h3>
-  <span> Email: <a href="mailto:ztiagok@gmail.com"> ztiagok@gmail.com </a> <span>
+  <span> Email: <a href="mailto:ztiagok@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a> <span>
     <br>
   <span> LinkedIn: <a href="https://www.linkedin.com/in/ztiagok/"> Tiago Braga Costa </a> </span>
     <br>
