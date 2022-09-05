@@ -63,13 +63,16 @@
 </div>
 
 <div align="center">
-  <h3> Projects <h3>
+    <h3> Projects <h3>
   
-  <details open>
-  <summary> Riot Games Launcher </summary>
-  <br>
-  teste!
-  </details>
+  <div align="left">
+    
+    <details open>
+    <summary> :one: Riot Games Launcher </summary>
+    <br>
+    teste!
+    </details>
+  </div>
 </div>
 
 
