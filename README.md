@@ -67,10 +67,9 @@
 </div>
     <details>
     <summary> :one: - Riot Games Launcher </summary>
-      teste1
     <br>
-    teste
-     <span> You can check the repo <a href="https://github.com/zTiagok/riot-launcher"> right here </a> !</span
+     <span> You can check the repository right <a href="https://github.com/zTiagok/riot-launcher"> here</a> !</span
+     <span> Under construction... :( </span>
     </details>
 </div>
 
