@@ -29,7 +29,7 @@
 
   <p> You can see my repos below this README, I'll be updating them as long I'm working on them!
 
-  <br />
+  <br /> <br />
   <hr />
   
   <h3> 💻 Technologies and Methodologies 💻 </h3>
