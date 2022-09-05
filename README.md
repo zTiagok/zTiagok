@@ -62,7 +62,7 @@
   <hr />
   
   <h3> :mag: Projects :mag: <h3>
-  <i> A little summary to explain my projects </i>
+  <i width=8> A little summary to explain my projects </i>
 </div>
     
 </div>
