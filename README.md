@@ -1,8 +1,6 @@
 <h2> Hello! :speech_balloon: </h2>
 <h1> My name is Tiago Braga Costa :mens: </h1>
 
-<br>
-
 <h3> About Me </h3>
 
 <p> 
