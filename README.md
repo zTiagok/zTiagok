@@ -48,14 +48,16 @@
   
   <br /> <br />
   <hr />
+  <br />
 
   <h3> :chart_with_upwards_trend: Stats :chart_with_upwards_trend: </h3>
 
   <img width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zTiagok" />
   <img width="433.5em" src="https://github-readme-stats.vercel.app/api?username=zTiagok" />
   
-  <br>
+  <br /> <br />
   <hr />
+  <br />
 
   <h3> :telephone_receiver: Contacts :telephone_receiver: </h3>
   
@@ -66,8 +68,9 @@
         <a href="https://www.instagram.com/z.tiago.k/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a>
   </div>
 
-  <br>
+  <br /> <br />
   <hr />
+  <br />
   
   <h3> :mag: Projects Summary :mag: <h3>
 </div>
