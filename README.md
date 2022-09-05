@@ -61,12 +61,13 @@
 
   <hr />
   
-  <h3> Projects <h3>
+  <h3> :mag: Projects :mag: <h3>
+  <i> A little summary to explain my projects </i>
 </div>
     
 </div>
     <details open>
-    <summary> :one: Riot Games Launcher </summary>
+    <summary> :one: - Riot Games Launcher </summary>
     <br>
     teste!
     </details>
