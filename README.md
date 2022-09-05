@@ -61,17 +61,15 @@
 
   <hr />
   
-  <h3> :mag: Projects :mag: <h3>
-  <font size="1"> teste
-    <i> A little summary to explain my projects </i>
-  </font>
+  <h3> :mag: Projects Summary :mag: <h3>
 </div>
     
 </div>
-    <details open>
+    <details>
     <summary> :one: - Riot Games Launcher </summary>
     <br>
-    teste!
+    
+      <span> You can check the repo <a href="https://github.com/zTiagok/riot-launcher"> right here </a> !</span
     </details>
 </div>
 
