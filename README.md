@@ -17,7 +17,7 @@
 <br>
 
 <h3> Contacts </h3>
-<span> Email: ztiagok@gmail.com <span>
+<span> Email: <a href="mailto:ztiagok@gmail.com"> ztiagok@gmail.com </a> <span>
   <br>
 <span> LinkedIn: <a href="https://www.linkedin.com/in/ztiagok/"> Tiago Braga Costa </a> </span>
   <br>
