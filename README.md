@@ -3,7 +3,7 @@
 
 <br>
 
-<h3> About me </h3>
+<h3> About Me </h3>
 
 <p> 
   I'm a Full-stack Web Developer Student at Trybe, but my main focus is on Front-end.
@@ -14,7 +14,6 @@
   seeing an application with a great response and cool designs.
 </p>
 
-<br>
 
 <h3> Contacts </h3>
 <span> Email: <a href="mailto:ztiagok@gmail.com"> ztiagok@gmail.com </a> <span>
