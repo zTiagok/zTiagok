@@ -65,7 +65,7 @@
 <div align="center">
     <h3> Projects <h3>
   
-  <div align="left">
+  <div>
     
     <details open>
     <summary> :one: Riot Games Launcher </summary>
