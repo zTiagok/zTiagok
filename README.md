@@ -20,3 +20,5 @@
 <span> Email: ztiagok@gmail.com <span>
   <br>
 <span> LinkedIn: <a href="https://www.linkedin.com/in/ztiagok/"> Tiago Braga Costa </a> </span>
+  <br>
+<span> WhatsApp: <a href="https://wa.me/5524988116847"> Redirect Me! </a> </span>
