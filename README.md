@@ -46,13 +46,14 @@
     <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" target"_blank">
   
   <hr />
+  <br />
 
   <h3> :chart_with_upwards_trend: Stats :chart_with_upwards_trend: </h3>
 
   <img width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zTiagok" />
   <img width="433.5em" src="https://github-readme-stats.vercel.app/api?username=zTiagok" />
   
-  <br />
+  <br /><br />
   <hr />
 
   <h3> :telephone_receiver: Contacts :telephone_receiver: </h3>
