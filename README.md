@@ -68,8 +68,8 @@
     <details>
     <summary> :one: - Riot Games Launcher </summary>
     <br>
-     <span> You can check the repository right <a href="https://github.com/zTiagok/riot-launcher"> here</a> !</span
-     <span> Under construction... :( </span>
+     <p> You can check the repository <a href="https://github.com/zTiagok/riot-launcher"> right here</a>!</p>
+     <p> Under construction... :( </p>
     </details>
 </div>
 
