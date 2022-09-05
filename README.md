@@ -43,6 +43,7 @@
   <h3> :chart_with_upwards_trend: Stats :chart_with_upwards_trend: </h3>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zTiagok" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zTiagok" />
   
   <hr />
 
