@@ -4,7 +4,12 @@
 <br>
 
 <span> 
-  I'm a Full-stack Web Developer Student at Trybe.
-  <br>
-  But my main focus is on Front-end
+  I'm a Full-stack Web Developer Student at Trybe, but my main focus is on Front-end.
+</span>
+
+<br>
+
+<span>
+  I really do enjoy work in applications using React + Redux and CSS. There's nothing more refreshing than
+  seeing a page with a good and cool look!
 </span>
