@@ -3,5 +3,8 @@
 
 <br>
 
-<h3> I'm a Full-stack Web Developer Student at Trybe. </h3>
-<h3> But my main focus is on Front-end </h3>
+<span> 
+  I'm a Full-stack Web Developer Student at Trybe.
+  <br>
+  But my main focus is on Front-end
+</span>
