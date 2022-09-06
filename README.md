@@ -22,9 +22,7 @@
   
   <div align="justify">
     <span> 🇧🇷 Brazilian </span> <br>
-    <div align="right">
-      <span> 🚹 He/Him </span> <br>
-    </div>
+    <span> 🚹 He/Him </span> <br>
     <span> 🎂 21 Years Old </span> <br>
     <span> 👨‍💻 Programming Enthusiastic </span> <br>
     <span> 👁️‍🗨️ Looking for a job </span>
