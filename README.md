@@ -22,9 +22,11 @@
 
     > 🌎 Brazilian - Rio de Janeiro
     > 🚹 He/Him
+ 
     > 🎂 21 Years Old
     > 👨‍💻 Programming Enthusiastic
     > 👁️‍🗨️ Looking for a Job
+ 
   <br />
   <hr />
   <br />
