@@ -20,12 +20,12 @@
     seeing an application with a great response and cool designs.
   </p>
   
-  <div align="justify">
-    <span> 🌎 Brazilian - Rio de Janeiro </span> <br>
-    <span> 🚹 He/Him </span> <br>
-    <span> 🎂 21 Years Old </span> <br>
-    <span> 👨‍💻 Programming Enthusiastic </span> <br>
-    <span> 👁️‍🗨️ Looking for a Job </span>
+  <div align="center">
+    > 🌎 Brazilian - Rio de Janeiro </span> <br>
+    > 🚹 He/Him </span> <br>
+    > 🎂 21 Years Old </span> <br>
+    > 👨‍💻 Programming Enthusiastic </span> <br>
+    > 👁️‍🗨️ Looking for a Job </span>
   </div>
 
   <br />
