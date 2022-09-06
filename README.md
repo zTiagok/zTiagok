@@ -25,7 +25,7 @@
     <span> 🚹 He/Him </span> <br>
     <span> 🎂 21 Years Old </span> <br>
     <span> 👨‍💻 Programming Enthusiastic </span> <br>
-    <span> 👁️‍🗨️ Looking for a job </span>
+    <span> 👁️‍🗨️ Looking for a Job </span>
   </div>
 
   <br />
