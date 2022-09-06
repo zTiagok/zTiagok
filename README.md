@@ -19,6 +19,8 @@
     I really do enjoy work in applications using React + Redux and CSS. There's nothing better than
     seeing an application with a great response and cool designs.
   </p>
+  
+  <br>
 
  > 🌎 Brazilian - Rio de Janeiro
  >
