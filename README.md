@@ -38,7 +38,14 @@
 
   <h3> :file_folder: Repositories :file_folder: </h3>
 
-  <p> You can see my repos below this README, I'll be updating them as long I'm working on them!
+  <div align="left">
+    <details>
+    <summary> :one: - Riot Games Launcher </summary>
+    <br>
+     <p> You can check the repository <a href="https://github.com/zTiagok/riot-launcher"> right here</a>!</p>
+     <p> Under construction... :( </p>
+    </details>
+  </div>
 
   <br /> <br />
   <hr />
@@ -78,17 +85,8 @@
   </div>
 
   <hr />
-  
-  <h3> :mag: Projects Summary :mag: <h3>
 </div>
     
-</div>
-    <details>
-    <summary> :one: - Riot Games Launcher </summary>
-    <br>
-     <p> You can check the repository <a href="https://github.com/zTiagok/riot-launcher"> right here</a>!</p>
-     <p> Under construction... :( </p>
-    </details>
-</div>
+
 
 
