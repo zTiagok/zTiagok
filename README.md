@@ -21,11 +21,11 @@
   </p>
   
   <div align="center">
-    > 🌎 Brazilian - Rio de Janeiro </span> <br>
-    > 🚹 He/Him </span> <br>
-    > 🎂 21 Years Old </span> <br>
-    > 👨‍💻 Programming Enthusiastic </span> <br>
-    > 👁️‍🗨️ Looking for a Job </span>
+    > 🌎 Brazilian - Rio de Janeiro
+    > 🚹 He/Him
+    > 🎂 21 Years Old
+    > 👨‍💻 Programming Enthusiastic
+    > 👁️‍🗨️ Looking for a Job
   </div>
 
   <br />
