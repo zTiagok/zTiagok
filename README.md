@@ -19,18 +19,12 @@
     I really do enjoy work in applications using React + Redux and CSS. There's nothing better than
     seeing an application with a great response and cool designs.
   </p>
-  
-  <div align="center">
  
     > 🌎 Brazilian - Rio de Janeiro
     > 🚹 He/Him
     > 🎂 21 Years Old
     > 👨‍💻 Programming Enthusiastic
     > 👁️‍🗨️ Looking for a Job
- 
-  </div>
-  
-  > teste
 
   <br />
   <hr />
