@@ -9,7 +9,7 @@
 
 <div align="center">
 
-  <h3> :busts_in_silhouette: About Me :busts_in_silhouette: </h3>
+  <h3> :bust_in_silhouette: About Me :bust_in_silhouette: </h3>
 
   <p> 
     I'm a Full-stack Web Developer Student at Trybe, but my main focus is on Front-end.
@@ -21,7 +21,7 @@
   </p>
   
   <div align="justify">
-    <span> 🇧🇷 Brazilian </span> <br>
+    <span> 🌎 Brazilian - Rio de Janeiro </span> <br>
     <span> 🚹 He/Him </span> <br>
     <span> 🎂 21 Years Old </span> <br>
     <span> 👨‍💻 Programming Enthusiastic </span> <br>
