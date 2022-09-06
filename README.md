@@ -21,7 +21,7 @@
   </p>
   
   <div align="justify">
-    <span>              🇧🇷 Brazilian </span> <br>
+    <span> 🇧🇷 Brazilian </span> <br>
     <span> 🚹 He/Him </span> <br>
     <span> 🎂 21 Years Old </span> <br>
     <span> 👨‍💻 Programming Enthusiastic </span> <br>
