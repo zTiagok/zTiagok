@@ -2,12 +2,12 @@
   Hello!
   <img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" width=30 />
 </h2>
-<h1> My name is Tiago Braga Costa :speech_balloon: </h1>
-
-<hr />
-<br />
+<h1> I'm Tiago Braga Costa  :speech_balloon: </h1>
 
 <div align="center">
+
+  <br>
+  <hr>
 
   <h3> :bust_in_silhouette: About Me :bust_in_silhouette: </h3>
 
@@ -34,9 +34,10 @@
  
   <br />
   <hr />
-  <br />
 
   <h3> :file_folder: Repositories :file_folder: </h3>
+  
+  <br>
 
   <div align="left">
     <details>
@@ -47,10 +48,14 @@
     </details>
   </div>
 
-  <br /> <br />
-  <hr />
+  <br>
+  <hr>
+  
+  <br>
   
   <h3> 💻 Technologies and Methodologies 💻 </h3>
+  
+  <br>
   
   <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" target="_blank">
@@ -64,18 +69,24 @@
   </div>
     <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" target"_blank">
   
-  <hr />
-  <br />
+  <br><br>
+  <hr>
+  
+  <br>
 
   <h3> :chart_with_upwards_trend: Stats :chart_with_upwards_trend: </h3>
+  
+  <br>
 
   <img width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zTiagok" />
   <img width="433.5em" src="https://github-readme-stats.vercel.app/api?username=zTiagok" />
   
-  <br /><br />
-  <hr />
+  <br><br>
+  <hr>
 
   <h3> :telephone_receiver: Contacts :telephone_receiver: </h3>
+  
+  <br>
   
   <div>
     <a href="mailto:ztiagok@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email"> </a>
@@ -84,7 +95,7 @@
         <a href="https://www.instagram.com/z.tiago.k/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a>
   </div>
 
-  <hr />
+  <br>
 </div>
     
 
