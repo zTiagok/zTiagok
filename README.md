@@ -20,8 +20,11 @@
     seeing an application with a great response and cool designs.
   </p>
   
-  - Brazilian
-  -
+  <p> 🇧🇷 Brazilian </p>
+  <p> 🚹 He/Him </p>
+  <p> 🎂 21 Years Old </p>
+  <p> 👨‍💻 Programming Enthusiastic </p>
+  <p> 👁️‍🗨️ Looking for a job </p>
 
   <br />
   <hr />
