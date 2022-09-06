@@ -51,8 +51,6 @@
   <br>
   <hr>
   
-  <br>
-  
   <h3> 💻 Technologies and Methodologies 💻 </h3>
   
   <br>
@@ -71,8 +69,6 @@
   
   <br><br>
   <hr>
-  
-  <br>
 
   <h3> :chart_with_upwards_trend: Stats :chart_with_upwards_trend: </h3>
   
