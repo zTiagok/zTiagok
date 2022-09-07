@@ -43,6 +43,10 @@
     <details>
     <summary> :one: - Riot Games Launcher </summary>
     <br>
+      <div align="center">
+     <a href="https://github.com/zTiagok/riot-launcher"><img width=200 src="https://www.riotgames.com/darkroom/800/87521fcaeca5867538ae7f46ac152740:2f8144e17957078916e41d2410c111c3/002-rg-2021-full-lockup-offwhite.jpg" alt="Riot Games Logo" target="_blank" /> </a>
+      </div>
+     <br>
      <p> A Riot Games launcher replica. Using React, Redux and CSS without frameworks I try to simulate the functionality of the original launcher, but bringing other features to the application. </p>
      <p> You can check the repository <a href="https://github.com/zTiagok/riot-launcher"> right here</a>!</p>
     </details>
