@@ -12,7 +12,7 @@
   <h3> :bust_in_silhouette: About Me :bust_in_silhouette: </h3>
 
   <p> 
-    I'm a Full-stack Web Developer Student at Trybe, but my main focus is on Front-end.
+    I'm a Full-stack Web Developer Student at Trybe, but I'm aiming to be a Front-end Developer.
   </p>
 
   <p>
