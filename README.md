@@ -45,7 +45,6 @@
     <br>
      <p> A Riot Games launcher replica. Using React, Redux and CSS without frameworks, trying to simulate the functionality of the original launcher. </p>
      <p> You can check the repository <a href="https://github.com/zTiagok/riot-launcher"> right here</a>!</p>
-      
     </details>
   </div>
 
