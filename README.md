@@ -20,8 +20,8 @@
     seeing an application with a great response and cool designs.
   </p>
   
-  <p> Checkout <a href="https://ztiagok.github.io/"> my website</a>! </p>
-  <p> (OLD - Portuguese Only) </p>
+  <span> Check out <a href="https://ztiagok.github.io/"> my website</a>! </span> <br>
+  <span> (OLD - Portuguese Only) </span>
   
   <br>
 
