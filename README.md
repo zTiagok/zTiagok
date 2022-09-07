@@ -20,6 +20,10 @@
     seeing an application with a great response and cool designs.
   </p>
   
+  <p>
+    Since I was little, I've loved anything related to computer, technology and that stuff. And nowadays I'm here, doing my best to become a great developer.
+  </p>
+  
   <span> Check out <a href="https://ztiagok.github.io/"> my website</a>! </span> <br>
   <span> (OLD - Portuguese Only) </span>
   
