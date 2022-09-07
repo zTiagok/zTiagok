@@ -50,7 +50,7 @@
 
   <div align="left">
     <details>
-    <summary> :one: - Riot Games Launcher </summary>
+    <summary> 01) - Riot Games Launcher </summary>
     <br>
       <div align="center">
      <a href="https://github.com/zTiagok/riot-launcher"><img width=200 src="https://www.riotgames.com/darkroom/800/87521fcaeca5867538ae7f46ac152740:2f8144e17957078916e41d2410c111c3/002-rg-2021-full-lockup-offwhite.jpg" alt="Riot Games Logo" target="_blank" /> </a>
@@ -71,7 +71,7 @@
   
   <div align="left">
     <details>
-      <summary> 0️⃣1️⃣ - Lessons Learned </summary>
+      <summary> 01) - Lessons Learned </summary>
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
@@ -82,7 +82,7 @@
        <br>
     </details>
     <details>
-      <summary> 0️⃣:two: - Playground Functions </summary>
+      <summary> 0️2) - Playground Functions </summary>
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
@@ -93,7 +93,7 @@
        <br>
     </details>
     <details>
-      <summary> 0️⃣:three: - Pixel Art </summary>
+      <summary> 0️3) - Pixel Art </summary>
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
@@ -104,7 +104,7 @@
        <br>
     </details>
     <details>
-      <summary> 0️⃣:four: - To Do List </summary>
+      <summary> 0️4) - To Do List </summary>
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
@@ -115,7 +115,7 @@
        <br>
     </details>
     <details>
-      <summary> 0️⃣:five: - Meme Generator </summary>
+      <summary> 05) - Meme Generator </summary>
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
@@ -126,7 +126,7 @@
        <br>
     </details>
     <details>
-      <summary> 0️⃣7️⃣ - Color Guess </summary>
+      <summary> 06) - Color Guess </summary>
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
