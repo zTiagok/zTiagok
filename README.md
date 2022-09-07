@@ -21,7 +21,7 @@
   </p>
   
   <p>
-    Since I was little, I've loved anything related to computer, technology and that stuff. And nowadays I'm here, doing my best to become a great developer.
+    Since I was little, I've loved anything related to computers, technology and that stuff. And nowadays I'm here, doing my best to become a great developer.
   </p>
   
   <span> Check out <a href="https://ztiagok.github.io/"> my website</a>! </span> <br>
