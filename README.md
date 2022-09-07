@@ -91,7 +91,7 @@
   <br><br>
   <hr>
 
-  <h3> :telephone_receiver: Contacts :telephone_receiver: </h3>
+  <h3> ☎️ Contacts ☎️ </h3>
   
   <br>
   
