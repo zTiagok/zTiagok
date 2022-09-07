@@ -46,7 +46,8 @@
   
   <br>
   
-  <h4> Personal Projects </h4>
+  <details>
+  <summary> <h4> Personal Projects </h4> </summary>
 
   <div align="left">
     <details>
@@ -65,9 +66,10 @@
      <br>
     </details>
   </div>
+  </details>
   
-  <br>
-  <h4> Trybe Projects </h4>
+  <details>
+    <summary> <h4> Trybe Projects </h4> </summary>
   
   <div align="left">
     <details>
@@ -137,6 +139,7 @@
        <br>
     </details>
   </div>
+  </details>
 
   <br>
   <hr>
