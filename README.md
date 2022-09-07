@@ -42,7 +42,7 @@
   <br />
   <hr />
 
-  <h3> :file_folder: Repositories :file_folder: </h3>
+  <h3> :file_folder: Repositories Summary :file_folder: </h3>
   
   <br>
   
@@ -62,6 +62,7 @@
      <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
      <p> A Riot Games launcher replica. Using React, Redux and CSS without frameworks I try to simulate the functionality of the original launcher, but bringing other features to the application. </p>
      <p> You can check the repository <a href="https://github.com/zTiagok/riot-launcher"> right here</a>!</p>
+     <br>
     </details>
   </div>
   
@@ -78,26 +79,62 @@
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
        <p> I'll add more info later! </p>  
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-01.lessons-learned"> right here</a>!</p>
+       <br>
     </details>
     <details>
       <summary> 0️⃣:two: - Playground Functions </summary>
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
-       <span> <b> GitHub Pages: Only Scripts :x: </span> <br>  
+       <span> <b> GitHub Pages: </b> Only Scripts :x: </span> <br>  
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
        <p> I'll add more info later! </p>  
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-02.playground-functions"> right here</a>!</p>
+       <br>
     </details>
     <details>
       <summary> 0️⃣:three: - Pixel Art </summary>
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
-       <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-03.pixel-art//"> Pixel Art </a> 🖼️ </span> <br>
+       <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-03.pixel-art/"> Pixel Art </a> 🖼️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
        <p> I'll add more info later! </p>  
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-03.pixel-art"> right here</a>!</p>
+       <br>
+    </details>
+    <details>
+      <summary> 0️⃣:four: - To Do List </summary>
+      <br>
+      <span> <b> Status: </b> Finished ✔️ </span> <br>
+       <span> <b> Version: </b> - 🧪 </span> <br>
+       <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-04.todo-list/"> To Do List </a> 🖼️ </span> <br>
+       <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
+       <p> I'll add more info later! </p>  
+       <p> You can check the repository <a href="https://github.com/zTiagok/trybe-04.todo-list"> right here</a>!</p>
+       <br>
+    </details>
+    <details>
+      <summary> 0️⃣:five: - Meme Generator </summary>
+      <br>
+      <span> <b> Status: </b> Finished ✔️ </span> <br>
+       <span> <b> Version: </b> - 🧪 </span> <br>
+       <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-05.meme-generator/"> Meme Generator </a> 🖼️ </span> <br>
+       <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
+       <p> I'll add more info later! </p>  
+       <p> You can check the repository <a href="https://github.com/zTiagok/trybe-05.meme-generator"> right here</a>!</p>
+       <br>
+    </details>
+    <details>
+      <summary> 0️⃣7️⃣ - Color Guess </summary>
+      <br>
+      <span> <b> Status: </b> Finished ✔️ </span> <br>
+       <span> <b> Version: </b> - 🧪 </span> <br>
+       <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-06.color-guess/"> Meme Generator </a> 🖼️ </span> <br>
+       <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
+       <p> I'll add more info later! </p>  
+       <p> You can check the repository <a href="https://github.com/zTiagok/trybe-06.color-guess"> right here</a>!</p>
+       <br>
     </details>
   </div>
 
