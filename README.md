@@ -45,6 +45,8 @@
   <h3> :file_folder: Repositories :file_folder: </h3>
   
   <br>
+  
+  <h4> Personal Projects </h4>
 
   <div align="left">
     <details>
@@ -62,6 +64,8 @@
      <p> You can check the repository <a href="https://github.com/zTiagok/riot-launcher"> right here</a>!</p>
     </details>
   </div>
+  
+  <h4> Trybe Projects </h4>
 
   <br>
   <hr>
