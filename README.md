@@ -65,7 +65,41 @@
     </details>
   </div>
   
+  <br>
   <h4> Trybe Projects </h4>
+  
+  <div align="left">
+    <details>
+      <summary> 0️⃣1️⃣ - Lessons Learned </summary>
+      <br>
+      <span> <b> Status: </b> Finished ✔️ </span> <br>
+       <span> <b> Version: </b> - 🧪 </span> <br>
+       <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-01.lessons-learned/"> Lessons Learned </a> 🖼️ </span> <br>
+       <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
+       <p> I'll add more info later! </p>  
+       <p> You can check the repository <a href="https://github.com/zTiagok/trybe-01.lessons-learned"> right here</a>!</p>
+    </details>
+    <details>
+      <summary> 0️⃣:two: - Playground Functions </summary>
+      <br>
+      <span> <b> Status: </b> Finished ✔️ </span> <br>
+       <span> <b> Version: </b> - 🧪 </span> <br>
+       <span> <b> GitHub Pages: Only Scripts :x: </span> <br>  
+       <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
+       <p> I'll add more info later! </p>  
+       <p> You can check the repository <a href="https://github.com/zTiagok/trybe-02.playground-functions"> right here</a>!</p>
+    </details>
+    <details>
+      <summary> 0️⃣:three: - Pixel Art </summary>
+      <br>
+      <span> <b> Status: </b> Finished ✔️ </span> <br>
+       <span> <b> Version: </b> - 🧪 </span> <br>
+       <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-03.pixel-art//"> Pixel Art </a> 🖼️ </span> <br>
+       <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
+       <p> I'll add more info later! </p>  
+       <p> You can check the repository <a href="https://github.com/zTiagok/trybe-03.pixel-art"> right here</a>!</p>
+    </details>
+  </div>
 
   <br>
   <hr>
