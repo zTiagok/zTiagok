@@ -20,6 +20,8 @@
     seeing an application with a great response and cool designs.
   </p>
   
+  <p> Checkout <a href="https://ztiagok.github.io/"> my website </p>! (OLD - Portuguese Only) </p>
+  
   <br>
 
  > 🌎 Brazilian - Rio de Janeiro
