@@ -201,18 +201,73 @@
        <span> <b> GitHub Pages: </b> Working on it! ⚠️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
        <p> I'll add more info later! </p>  
-       <p> You can check the repository <a href="https://github.com/zTiagok/trybe-11.shopping-cart"> right here</a>!</p>
+       <p> You can check the repository <a href="https://github.com/zTiagok/trybe-12.solar-system"> right here</a>!</p>
        <br>
     </details>
     <details>
-      <summary> 13) - Shopping Cart </summary>
+      <summary> 13) - Tryunfo </summary>
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
-       <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-11.shopping-cart"> Shopping Cart </a> 🖼️ </span> <br>
+       <span> <b> GitHub Pages: </b> Working on it! ⚠️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
        <p> I'll add more info later! </p>  
-       <p> You can check the repository <a href="https://github.com/zTiagok/trybe-11.shopping-cart"> right here</a>!</p>
+       <p> You can check the repository <a href="https://github.com/zTiagok/trybe-13.tryunfo"> right here</a>!</p>
+       <br>
+    </details>
+    <details>
+      <summary> 14) - Trybetunes </summary>
+      <br>
+      <span> <b> Status: </b> Finished ✔️ </span> <br>
+       <span> <b> Version: </b> - 🧪 </span> <br>
+       <span> <b> GitHub Pages: </b> Working on it! ⚠️ </span> <br>
+       <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
+       <p> I'll add more info later! </p>  
+       <p> You can check the repository <a href="https://github.com/zTiagok/trybe-14.trybetunes"> right here</a>!</p>
+       <br>
+    </details>
+    <details>
+      <summary> 15) - Online Store </summary>
+      <br>
+      <span> <b> Status: </b> Finished ✔️ </span> <br>
+       <span> <b> Version: </b> - 🧪 </span> <br>
+       <span> <b> GitHub Pages: </b> Working on it! ⚠️ </span> <br>
+       <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
+       <p> I'll add more info later! </p>  
+       <p> You can check the repository <a href="https://github.com/zTiagok/trybe-15.online-store"> right here</a>!</p>
+       <br>
+    </details>
+    <details>
+      <summary> 16) - React Testing Libraries </summary>
+      <br>
+      <span> <b> Status: </b> Finished ✔️ </span> <br>
+       <span> <b> Version: </b> - 🧪 </span> <br>
+       <span> <b> GitHub Pages: </b> Working on it! ⚠️ </span> <br>
+       <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
+       <p> I'll add more info later! </p>  
+       <p> You can check the repository <a href="https://github.com/zTiagok/trybe-16.react-testing-library"> right here</a>!</p>
+       <br>
+    </details>
+    <details>
+      <summary> 17) - Trybewallet </summary>
+      <br>
+      <span> <b> Status: </b> Finished ✔️ </span> <br>
+       <span> <b> Version: </b> - 🧪 </span> <br>
+       <span> <b> GitHub Pages: </b> Working on it! ⚠️ </span> <br>
+       <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
+       <p> I'll add more info later! </p>  
+       <p> You can check the repository <a href="https://github.com/zTiagok/trybe-17.trybewallet"> right here</a>!</p>
+       <br>
+    </details>
+    <details>
+      <summary> 18) - Trivia </summary>
+      <br>
+      <span> <b> Status: </b> Finished ✔️ </span> <br>
+       <span> <b> Version: </b> - 🧪 </span> <br>
+       <span> <b> GitHub Pages: </b> Working on it! ⚠️ </span> <br>
+       <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
+       <p> I'll add more info later! </p>  
+       <p> You can check the repository <a href="https://github.com/zTiagok/trybe-18.trivia"> right here</a>!</p>
        <br>
     </details>
   </div>
@@ -235,7 +290,8 @@
     <img src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" alt="React-Testing-Library" target="_blank">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" target="_blank">
   </div>
-    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" target"_blank">
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" target="_blank">
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" target="_blank">
   
   <br>
   <hr>
