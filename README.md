@@ -12,16 +12,16 @@
   <h3> :bust_in_silhouette: About Me :bust_in_silhouette: </h3>
 
   <p> 
-    I'm a Full-stack Web Developer Student at Trybe, but I'm aiming to be a Front-end Developer.
+    I'm a Full-stack Web Developer Student at Trybe, but I'm focusing on becoming a Front-end Developer.
   </p>
 
   <p>
-    My dream is to be a Front-end Professional on a big company. I would love to work using technologies such as React, Redux, Context API and so on, applying a creative and flexibe CSS to the application.
-    There's nothing better than seeing an website with a great response and cool designs.
+    My dream is to be a Front-end Professional in a big company. I would love to work using technologies such as React, Redux, Context API and so on, applying creative and flexibe CSS to the application.
+    There's nothing better than seeing a website with a good response and clean designs.
   </p>
   
   <p>
-    Since I was little, I've loved anything related to computers, technology and that stuff. And nowadays I'm here, doing my best to become a great developer.
+    Ever since I was young, I have always loved everything related to computers, technology and such. And today I am here, doing my best to become a great developer.
   </p>
   
   <span> Check out <a href="https://ztiagok.github.io/"> my website</a>! </span> <br>
