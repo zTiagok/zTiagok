@@ -138,6 +138,61 @@
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-06.color-guess"> right here</a>!</p>
        <br>
     </details>
+    <details>
+      <summary> 07) - Mistery Letter </summary>
+      <br>
+      <span> <b> Status: </b> Finished ✔️ </span> <br>
+       <span> <b> Version: </b> - 🧪 </span> <br>
+       <span> <b> GitHub Pages: </b> <a href="ztiagok.github.io/trybe-07.mistery-letter"> Mistery Letter </a> 🖼️ </span> <br>
+       <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
+       <p> I'll add more info later! </p>  
+       <p> You can check the repository <a href="https://github.com/zTiagok/trybe-07.mistery-letter"> right here</a>!</p>
+       <br>
+    </details>
+    <details>
+      <summary> 08) - Trybewarts </summary>
+      <br>
+      <span> <b> Status: </b> Finished ✔️ </span> <br>
+       <span> <b> Version: </b> - 🧪 </span> <br>
+       <span> <b> GitHub Pages: </b> <a href="ztiagok.github.io/trybe-08.trybewarts"> Trybewarts </a> 🖼️ </span> <br>
+       <span> <b> Developers: </b> Tiago Braga Costa | <a href="https://www.linkedin.com/in/adan-filipe-almeida-bahia-840886a6/"> Adan Felipe Almeida Bahia </a> 👥 </span> <br> <br>
+       <p> I'll add more info later! </p>  
+       <p> You can check the repository <a href="https://github.com/zTiagok/trybe-08.trybewarts"> right here</a>!</p>
+       <br>
+    </details>
+    <details>
+      <summary> 09) - Javascript Unit Tests </summary>
+      <br>
+      <span> <b> Status: </b> Finished ✔️ </span> <br>
+       <span> <b> Version: </b> - 🧪 </span> <br>
+       <span> <b> GitHub Pages: </b> Only Scripts :x: </span> <br>
+       <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
+       <p> I'll add more info later! </p>  
+       <p> You can check the repository <a href="https://github.com/zTiagok/trybe-09.javascript-unit-tests"> right here</a>!</p>
+       <br>
+    </details>
+    <details>
+      <summary> 10) - Zoo Functions </summary>
+      <br>
+      <span> <b> Status: </b> Finished ✔️ </span> <br>
+       <span> <b> Version: </b> - 🧪 </span> <br>
+       <span> <b> GitHub Pages: </b> Only Scripts :x: </span> <br>
+       <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
+       <p> I'll add more info later! </p>  
+       <p> You can check the repository <a href="https://https://github.com/zTiagok/trybe-10.zoo-functions"> right here</a>!</p>
+       <br>
+    </details>
+    <details>
+      <summary> 11) - Shopping Cart </summary>
+      <br>
+      <span> <b> Status: </b> Finished ✔️ </span> <br>
+       <span> <b> Version: </b> - 🧪 </span> <br>
+       <span> <b> GitHub Pages: </b> <a href="ztiagok.github.io/trybe-11.shopping-cart"> Shopping Cart </a> 🖼️ </span> <br>
+       <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
+       <p> I'll add more info later! </p>  
+       <p> You can check the repository <a href="https://github.com/zTiagok/trybe-11.shopping-cart"> right here</a>!</p>
+       <br>
+    </details>
   </div>
   </details>
 
