@@ -43,7 +43,10 @@
   <hr />
 
   <h3> :file_folder: Repositories Summary :file_folder: </h3>
-  
+
+  <b> Almost </b> every repository has a link to test the application! </font>
+
+  <br>
   <br>
   
   <details>
@@ -68,7 +71,6 @@
      <br>
      <span> <b> Status: </b> In Development ⚠ </span> <br>
      <span> <b> Version: </b> 1.0 (Not Commited) 🧪 </span> <br>
-     <span> <b> GitHub Pages: </b> Working on it! ⚠️ </span> <br>
      <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
      <p> A Riot Games launcher replica. Using React, Redux and CSS without frameworks I try to simulate the functionality of the original launcher, but bringing other features to the application. </p>
      <p> You can check the repository <a href="https://github.com/zTiagok/riot-launcher"> right here</a>!</p>
@@ -87,9 +89,8 @@
       <span> <b> Status: </b> Finished ✔️ </span> <br>
       <span> <b> Conclusion Date: </b> 05/04/2022 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
-       <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-01.lessons-learned/"> Lessons Learned </a> 🖼️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
-       <p> My first project! Using only HTML and CSS, our goal was to make a profile page. </p>  
+       <p> I'll add more info later! </p>  
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-01.lessons-learned"> right here</a>!</p>
        <br>
     </details>
@@ -99,9 +100,8 @@
       <span> <b> Status: </b> Finished ✔️ </span> <br>
       <span> <b> Conclusion Date: </b> 13/04/2022 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
-       <span> <b> GitHub Pages: </b> Only Scripts :x: </span> <br>  
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
-       <p> My first contact with Javascript. Our goal was to use programming logic in Javascript to achieve the requirements. </p>  
+       <p> I'll add more info later! </p>  
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-02.playground-functions"> right here</a>!</p>
        <br>
     </details>
@@ -111,7 +111,6 @@
       <span> <b> Status: </b> Finished ✔️ </span> <br>
       <span> <b> Conclusion Date: </b> 28/04/2022 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
-       <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-03.pixel-art/"> Pixel Art </a> 🖼️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
        <p> I'll add more info later! </p>  
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-03.pixel-art"> right here</a>!</p>
@@ -123,7 +122,6 @@
       <span> <b> Status: </b> Finished ✔️ </span> <br>
       <span> <b> Conclusion Date: </b> 29/04/2022 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
-       <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-04.todo-list/"> To Do List </a> 🖼️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
        <p> I'll add more info later! </p>  
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-04.todo-list"> right here</a>!</p>
@@ -135,7 +133,6 @@
       <span> <b> Status: </b> Finished ✔️ </span> <br>
       <span> <b> Conclusion Date: </b> 29/04/2022 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
-       <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-05.meme-generator/"> Meme Generator </a> 🖼️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
        <p> I'll add more info later! </p>  
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-05.meme-generator"> right here</a>!</p>
@@ -147,7 +144,6 @@
       <span> <b> Status: </b> Finished ✔️ </span> <br>
       <span> <b> Conclusion Date: </b> 30/04/2022 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
-       <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-06.color-guess/"> Color Guess </a> 🖼️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
        <p> I'll add more info later! </p>  
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-06.color-guess"> right here</a>!</p>
@@ -159,7 +155,6 @@
       <span> <b> Status: </b> Finished ✔️ </span> <br>
       <span> <b> Conclusion Date: </b> 30/04/2022 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
-       <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-07.mistery-letter"> Mistery Letter </a> 🖼️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
        <p> I'll add more info later! </p>  
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-07.mistery-letter"> right here</a>!</p>
@@ -171,7 +166,6 @@
       <span> <b> Status: </b> Finished ✔️ </span> <br>
       <span> <b> Conclusion Date: </b> 10/05/2022 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
-       <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-08.trybewarts"> Trybewarts </a> 🖼️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa | <a href="https://www.linkedin.com/in/adan-filipe-almeida-bahia-840886a6/"> Adan Felipe Almeida Bahia </a> 👥 </span> <br> <br>
        <p> I'll add more info later! </p>  
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-08.trybewarts"> right here</a>!</p>
@@ -183,7 +177,6 @@
       <span> <b> Status: </b> Finished ✔️ </span> <br>
       <span> <b> Conclusion Date: </b> 16/05/2022 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
-       <span> <b> GitHub Pages: </b> Only Scripts :x: </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
        <p> I'll add more info later! </p>  
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-09.javascript-unit-tests"> right here</a>!</p>
@@ -195,7 +188,6 @@
       <span> <b> Status: </b> Finished ✔️ </span> <br>
       <span> <b> Conclusion Date: </b> 27/05/2022 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
-       <span> <b> GitHub Pages: </b> Only Scripts :x: </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
        <p> I'll add more info later! </p>  
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-10.zoo-functions"> right here</a>!</p>
@@ -207,7 +199,6 @@
       <span> <b> Status: </b> Finished ✔️ </span> <br>
       <span> <b> Conclusion Date: </b> 09/06/2022 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
-       <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-11.shopping-cart"> Shopping Cart </a> 🖼️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
        <p> I'll add more info later! </p>  
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-11.shopping-cart"> right here</a>!</p>
@@ -219,7 +210,6 @@
       <span> <b> Status: </b> Finished ✔️ </span> <br>
       <span> <b> Conclusion Date: </b> 21/06/2022 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
-       <span> <b> GitHub Pages: </b> Working on it! ⚠️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
        <p> I'll add more info later! </p>  
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-12.solar-system"> right here</a>!</p>
@@ -231,7 +221,6 @@
       <span> <b> Status: </b> Finished ✔️ </span> <br>
       <span> <b> Conclusion Date: </b> 27/06/2022 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
-       <span> <b> GitHub Pages: </b> Working on it! ⚠️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
        <p> I'll add more info later! </p>  
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-13.tryunfo"> right here</a>!</p>
@@ -243,7 +232,6 @@
       <span> <b> Status: </b> Finished ✔️ </span> <br>
       <span> <b> Conclusion Date: </b> 08/07/2022 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
-       <span> <b> GitHub Pages: </b> Working on it! ⚠️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
        <p> I'll add more info later! </p>  
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-14.trybetunes"> right here</a>!</p>
@@ -255,7 +243,6 @@
       <span> <b> Status: </b> Finished ✔️ </span> <br>
       <span> <b> Conclusion Date: </b> 14/07/2022 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
-       <span> <b> GitHub Pages: </b> Working on it! ⚠️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa | <a href="https://www.linkedin.com/in/ricardo-caselati/"> Ricardo Caselati </a> | Carlos Roberto | <a href="https://www.linkedin.com/in/heitor-gontijo-bb92011bb/"> Heitor Gontijo </a> | Leonardo Kern 👥 </span> <br> <br>
        <p> I'll add more info later! </p>  
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-15.online-store"> right here</a>!</p>
@@ -267,7 +254,6 @@
       <span> <b> Status: </b> Finished ✔️ </span> <br>
       <span> <b> Conclusion Date: </b> 26/07/2022 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
-       <span> <b> GitHub Pages: </b> Working on it! ⚠️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
        <p> I'll add more info later! </p>  
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-16.react-testing-library"> right here</a>!</p>
@@ -279,7 +265,6 @@
       <span> <b> Status: </b> Finished ✔️ </span> <br>
       <span> <b> Conclusion Date: </b> 02/08/2022 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
-       <span> <b> GitHub Pages: </b> Working on it! ⚠️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
        <p> I'll add more info later! </p>  
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-17.trybewallet"> right here</a>!</p>
@@ -291,7 +276,6 @@
       <span> <b> Status: </b> Finished ✔️ </span> <br>
       <span> <b> Conclusion Date: </b> 15/08/2022 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
-       <span> <b> GitHub Pages: </b> Working on it! ⚠️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa | <a href="https://www.linkedin.com/in/adan-filipe-almeida-bahia-840886a6/"> Adan Felipe Almeida Bahia </a> | <a href="https://www.linkedin.com/in/fernando-jorge-monteiro/"> Fernando Jorge Monteiro </a> | <a href="https://www.linkedin.com/in/raissa-vasconcelos-a09272216"> Raissa Vasconcelos </a> | <a href="https://www.linkedin.com/in/raphael-sant-ana-506715230/"> Raphael Sant'Ana </a> | Thaysa Fernanda Quintão Dias  👥 </span> <br> <br>
        <p> I'll add more info later! </p>  
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-18.trivia"> right here</a>!</p>
@@ -303,7 +287,6 @@
       <span> <b> Status: </b> Finished ✔️ </span> <br>
       <span> <b> Conclusion Date: </b> 23/08/2022 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
-       <span> <b> GitHub Pages: </b> Working on it! ⚠️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
        <p> I'll add more info later! </p>  
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-19.star-wars-filters"> right here</a>!</p>
