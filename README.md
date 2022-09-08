@@ -232,7 +232,7 @@
       <span> <b> Status: </b> Finished ✔️ </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
        <span> <b> GitHub Pages: </b> Working on it! ⚠️ </span> <br>
-       <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
+       <span> <b> Developers: </b> Tiago Braga Costa | <a href="https://www.linkedin.com/in/ricardo-caselati/"> Ricardo Caselati </a> | Carlos Roberto | <a href="https://www.linkedin.com/in/heitor-gontijo-bb92011bb/"> Heitor Gontijo </a> | Leonardo Kern 👥 </span> <br> <br>
        <p> I'll add more info later! </p>  
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-15.online-store"> right here</a>!</p>
        <br>
