@@ -47,13 +47,20 @@
   <br>
   
   <details>
+  <summary> <h4> Highlights </h4> </summary>
+    <div align="left">
+      <a href="#personal-01"> Riot Games Launcher </a>
+    </div>
+  </details>
+  
+  <details>
   <summary> <h4> Personal Projects </h4> </summary>
 
   <div align="left">
     <details>
     <summary> 01) - Riot Games Launcher </summary>
     <br>
-      <div align="center">
+      <div align="center" id="personal-01">
      <a href="https://github.com/zTiagok/riot-launcher"><img width=200 src="https://www.riotgames.com/darkroom/800/87521fcaeca5867538ae7f46ac152740:2f8144e17957078916e41d2410c111c3/002-rg-2021-full-lockup-offwhite.jpg" alt="Riot Games Logo" target="_blank" /> </a>
       </div>
      <br>
