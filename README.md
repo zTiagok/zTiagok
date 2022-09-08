@@ -141,7 +141,7 @@
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
-       <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-06.color-guess/"> Meme Generator </a> 🖼️ </span> <br>
+       <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-06.color-guess/"> Color Guess </a> 🖼️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
        <p> I'll add more info later! </p>  
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-06.color-guess"> right here</a>!</p>
