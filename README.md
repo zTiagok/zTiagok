@@ -193,6 +193,28 @@
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-11.shopping-cart"> right here</a>!</p>
        <br>
     </details>
+    <details>
+      <summary> 12) - Solar System </summary>
+      <br>
+      <span> <b> Status: </b> Finished ✔️ </span> <br>
+       <span> <b> Version: </b> - 🧪 </span> <br>
+       <span> <b> GitHub Pages: </b> Working on it! ⚠️ </span> <br>
+       <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
+       <p> I'll add more info later! </p>  
+       <p> You can check the repository <a href="https://github.com/zTiagok/trybe-11.shopping-cart"> right here</a>!</p>
+       <br>
+    </details>
+    <details>
+      <summary> 13) - Shopping Cart </summary>
+      <br>
+      <span> <b> Status: </b> Finished ✔️ </span> <br>
+       <span> <b> Version: </b> - 🧪 </span> <br>
+       <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-11.shopping-cart"> Shopping Cart </a> 🖼️ </span> <br>
+       <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
+       <p> I'll add more info later! </p>  
+       <p> You can check the repository <a href="https://github.com/zTiagok/trybe-11.shopping-cart"> right here</a>!</p>
+       <br>
+    </details>
   </div>
   </details>
 
