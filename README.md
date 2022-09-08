@@ -188,7 +188,7 @@
        <span> <b> GitHub Pages: </b> Only Scripts :x: </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
        <p> I'll add more info later! </p>  
-       <p> You can check the repository <a href="https://https://github.com/zTiagok/trybe-10.zoo-functions"> right here</a>!</p>
+       <p> You can check the repository <a href="https://github.com/zTiagok/trybe-10.zoo-functions"> right here</a>!</p>
        <br>
     </details>
     <details>
