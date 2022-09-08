@@ -85,6 +85,7 @@
       <summary> 01) - Lessons Learned </summary>
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
+      <span> <b> Conclusion Date: 05/04/2022 </b> 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
        <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-01.lessons-learned/"> Lessons Learned </a> 🖼️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
@@ -96,6 +97,7 @@
       <summary> 0️2) - Playground Functions </summary>
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
+      <span> <b> Conclusion Date: 13/04/2022 </b> 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
        <span> <b> GitHub Pages: </b> Only Scripts :x: </span> <br>  
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
@@ -107,6 +109,7 @@
       <summary> 0️3) - Pixel Art </summary>
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
+      <span> <b> Conclusion Date: 28/04/2022 </b> 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
        <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-03.pixel-art/"> Pixel Art </a> 🖼️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
@@ -118,6 +121,7 @@
       <summary> 0️4) - To Do List </summary>
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
+      <span> <b> Conclusion Date: 29/04/2022 </b> 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
        <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-04.todo-list/"> To Do List </a> 🖼️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
@@ -129,6 +133,7 @@
       <summary> 05) - Meme Generator </summary>
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
+      <span> <b> Conclusion Date: 29/04/2022 </b> 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
        <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-05.meme-generator/"> Meme Generator </a> 🖼️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
@@ -140,6 +145,7 @@
       <summary> 06) - Color Guess </summary>
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
+      <span> <b> Conclusion Date: 30/04/2022 </b> 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
        <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-06.color-guess/"> Color Guess </a> 🖼️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
@@ -151,6 +157,7 @@
       <summary> 07) - Mistery Letter </summary>
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
+      <span> <b> Conclusion Date: 30/04/2022 </b> 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
        <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-07.mistery-letter"> Mistery Letter </a> 🖼️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
@@ -162,6 +169,7 @@
       <summary> 08) - Trybewarts </summary>
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
+      <span> <b> Conclusion Date: 10/05/2022 </b> 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
        <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-08.trybewarts"> Trybewarts </a> 🖼️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa | <a href="https://www.linkedin.com/in/adan-filipe-almeida-bahia-840886a6/"> Adan Felipe Almeida Bahia </a> 👥 </span> <br> <br>
@@ -173,6 +181,7 @@
       <summary> 09) - Javascript Unit Tests </summary>
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
+      <span> <b> Conclusion Date: 16/05/2022 </b> 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
        <span> <b> GitHub Pages: </b> Only Scripts :x: </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
@@ -184,6 +193,7 @@
       <summary> 10) - Zoo Functions </summary>
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
+      <span> <b> Conclusion Date: 27/05/2022 </b> 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
        <span> <b> GitHub Pages: </b> Only Scripts :x: </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
@@ -195,6 +205,7 @@
       <summary> 11) - Shopping Cart </summary>
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
+      <span> <b> Conclusion Date: 09/06/2022 </b> 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
        <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-11.shopping-cart"> Shopping Cart </a> 🖼️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
@@ -206,6 +217,7 @@
       <summary> 12) - Solar System </summary>
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
+      <span> <b> Conclusion Date: 21/06/2022 </b> 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
        <span> <b> GitHub Pages: </b> Working on it! ⚠️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
@@ -217,6 +229,7 @@
       <summary> 13) - Tryunfo </summary>
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
+      <span> <b> Conclusion Date: 27/06/2022 </b> 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
        <span> <b> GitHub Pages: </b> Working on it! ⚠️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
@@ -228,6 +241,7 @@
       <summary> 14) - Trybetunes </summary>
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
+      <span> <b> Conclusion Date: 08/07/2022 </b> 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
        <span> <b> GitHub Pages: </b> Working on it! ⚠️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
@@ -239,6 +253,7 @@
       <summary> 15) - Online Store </summary>
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
+      <span> <b> Conclusion Date: 14/07/2022 </b> 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
        <span> <b> GitHub Pages: </b> Working on it! ⚠️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa | <a href="https://www.linkedin.com/in/ricardo-caselati/"> Ricardo Caselati </a> | Carlos Roberto | <a href="https://www.linkedin.com/in/heitor-gontijo-bb92011bb/"> Heitor Gontijo </a> | Leonardo Kern 👥 </span> <br> <br>
@@ -250,6 +265,7 @@
       <summary> 16) - React Testing Libraries </summary>
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
+      <span> <b> Conclusion Date: 26/07/2022 </b> 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
        <span> <b> GitHub Pages: </b> Working on it! ⚠️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
@@ -261,6 +277,7 @@
       <summary> 17) - Trybewallet </summary>
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
+      <span> <b> Conclusion Date: 02/08/2022 </b> 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
        <span> <b> GitHub Pages: </b> Working on it! ⚠️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
@@ -272,6 +289,7 @@
       <summary> 18) - Trivia </summary>
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
+      <span> <b> Conclusion Date: 15/08/2022 </b> 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
        <span> <b> GitHub Pages: </b> Working on it! ⚠️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa | <a href="https://www.linkedin.com/in/adan-filipe-almeida-bahia-840886a6/"> Adan Felipe Almeida Bahia </a> | <a href="https://www.linkedin.com/in/fernando-jorge-monteiro/"> Fernando Jorge Monteiro </a> | <a href="https://www.linkedin.com/in/raissa-vasconcelos-a09272216"> Raissa Vasconcelos </a> | <a href="https://www.linkedin.com/in/raphael-sant-ana-506715230/"> Raphael Sant'Ana </a> | Thaysa Fernanda Quintão Dias  👥 </span> <br> <br>
@@ -283,6 +301,7 @@
       <summary> 19) - Star Wars Filters </summary>
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
+      <span> <b> Conclusion Date: 23/08/2022 </b> 📆 </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
        <span> <b> GitHub Pages: </b> Working on it! ⚠️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
