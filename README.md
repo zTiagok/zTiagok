@@ -143,7 +143,7 @@
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
-       <span> <b> GitHub Pages: </b> <a href="ztiagok.github.io/trybe-07.mistery-letter"> Mistery Letter </a> 🖼️ </span> <br>
+       <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-07.mistery-letter"> Mistery Letter </a> 🖼️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
        <p> I'll add more info later! </p>  
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-07.mistery-letter"> right here</a>!</p>
@@ -154,7 +154,7 @@
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
-       <span> <b> GitHub Pages: </b> <a href="ztiagok.github.io/trybe-08.trybewarts"> Trybewarts </a> 🖼️ </span> <br>
+       <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-08.trybewarts"> Trybewarts </a> 🖼️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa | <a href="https://www.linkedin.com/in/adan-filipe-almeida-bahia-840886a6/"> Adan Felipe Almeida Bahia </a> 👥 </span> <br> <br>
        <p> I'll add more info later! </p>  
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-08.trybewarts"> right here</a>!</p>
@@ -187,7 +187,7 @@
       <br>
       <span> <b> Status: </b> Finished ✔️ </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
-       <span> <b> GitHub Pages: </b> <a href="ztiagok.github.io/trybe-11.shopping-cart"> Shopping Cart </a> 🖼️ </span> <br>
+       <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-11.shopping-cart"> Shopping Cart </a> 🖼️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
        <p> I'll add more info later! </p>  
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-11.shopping-cart"> right here</a>!</p>
