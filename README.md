@@ -265,9 +265,20 @@
       <span> <b> Status: </b> Finished ✔️ </span> <br>
        <span> <b> Version: </b> - 🧪 </span> <br>
        <span> <b> GitHub Pages: </b> Working on it! ⚠️ </span> <br>
-       <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
+       <span> <b> Developers: </b> Tiago Braga Costa | <a href="https://www.linkedin.com/in/adan-filipe-almeida-bahia-840886a6/"> Adan Felipe Almeida Bahia </a> | <a href="https://www.linkedin.com/in/fernando-jorge-monteiro/"> Fernando Jorge Monteiro </a> | <a href="https://www.linkedin.com/in/raissa-vasconcelos-a09272216"> Raissa Vasconcelos </a> | <a href="https://www.linkedin.com/in/raphael-sant-ana-506715230/"> Raphael Sant'Ana </a> | Thaysa Fernanda Quintão Dias  👥 </span> <br> <br>
        <p> I'll add more info later! </p>  
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-18.trivia"> right here</a>!</p>
+       <br>
+    </details>
+    <details>
+      <summary> 19) - Star Wars Filters </summary>
+      <br>
+      <span> <b> Status: </b> Finished ✔️ </span> <br>
+       <span> <b> Version: </b> - 🧪 </span> <br>
+       <span> <b> GitHub Pages: </b> Working on it! ⚠️ </span> <br>
+       <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
+       <p> I'll add more info later! </p>  
+       <p> You can check the repository <a href="https://github.com/zTiagok/trybe-19.star-wars-filters"> right here</a>!</p>
        <br>
     </details>
   </div>
