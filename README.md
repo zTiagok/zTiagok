@@ -101,7 +101,7 @@
        <span> <b> Version: </b> - 🧪 </span> <br>
        <span> <b> GitHub Pages: </b> Only Scripts :x: </span> <br>  
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
-       <p> I'll add more info later! </p>  
+       <p> My first contact with Javascript. Our goal was to use programming logic in Javascript to achieve the requirements. </p>  
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-02.playground-functions"> right here</a>!</p>
        <br>
     </details>
