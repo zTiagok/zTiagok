@@ -89,7 +89,7 @@
        <span> <b> Version: </b> - 🧪 </span> <br>
        <span> <b> GitHub Pages: </b> <a href="https://ztiagok.github.io/trybe-01.lessons-learned/"> Lessons Learned </a> 🖼️ </span> <br>
        <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
-       <p> I'll add more info later! </p>  
+       <p> My first project! Using only HTML and CSS, our goal was to make a profile page. </p>  
        <p> You can check the repository <a href="https://github.com/zTiagok/trybe-01.lessons-learned"> right here</a>!</p>
        <br>
     </details>
