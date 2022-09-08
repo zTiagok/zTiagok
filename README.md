@@ -68,7 +68,7 @@
      <br>
      <span> <b> Status: </b> In Development ⚠ </span> <br>
      <span> <b> Version: </b> 1.0 (Not Commited) 🧪 </span> <br>
-     <span> <b> GitHub Pages: </b> No ❌ </span> <br>
+     <span> <b> GitHub Pages: </b> Working on it! ⚠️ </span> <br>
      <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
      <p> A Riot Games launcher replica. Using React, Redux and CSS without frameworks I try to simulate the functionality of the original launcher, but bringing other features to the application. </p>
      <p> You can check the repository <a href="https://github.com/zTiagok/riot-launcher"> right here</a>!</p>
