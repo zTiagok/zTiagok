@@ -16,7 +16,7 @@
   </p>
 
   <p>
-    My dream is to be a Front-end Professional in a big company. I would love to work using technologies such as React, Redux, Context API and so on, applying creative and flexibe CSS to the application.
+    My dream is to be a Front-end Professional in a multinational. I would love to work using technologies such as React, Redux, Context API and so on, applying creative and responsible CSS to the application.
     There's nothing better than seeing a website with a good response and clean designs.
   </p>
   
