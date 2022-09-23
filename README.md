@@ -90,7 +90,7 @@
         <span> <b> Conclusion Date: </b> 05/04/2022 📆 </span> <br>
          <span> <b> Version: </b> - 🧪 </span> <br>
          <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
-         <p> I'll add more info later! </p>  
+         <p> My first project at Trybe, learning the basics of HTML and CSS. </p>  
          <p> You can check the repository <a href="https://github.com/zTiagok/trybe-01.lessons-learned"> right here</a>!</p>
          <br>
       </details>
@@ -101,7 +101,7 @@
         <span> <b> Conclusion Date: </b> 13/04/2022 📆 </span> <br>
          <span> <b> Version: </b> - 🧪 </span> <br>
          <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
-         <p> I'll add more info later! </p>  
+         <p> Getting started with Javascript, I created functions to solve logic problems. </p>  
          <p> You can check the repository <a href="https://github.com/zTiagok/trybe-02.playground-functions"> right here</a>!</p>
          <br>
       </details>
@@ -112,7 +112,7 @@
         <span> <b> Conclusion Date: </b> 28/04/2022 📆 </span> <br>
          <span> <b> Version: </b> - 🧪 </span> <br>
          <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
-         <p> I'll add more info later! </p>  
+         <p> An application designed to paint squares with random colors that are rendered whenever the page is reloaded. </p>  
          <p> You can check the repository <a href="https://github.com/zTiagok/trybe-03.pixel-art"> right here</a>!</p>
          <br>
       </details>
@@ -123,7 +123,7 @@
         <span> <b> Conclusion Date: </b> 29/04/2022 📆 </span> <br>
          <span> <b> Version: </b> - 🧪 </span> <br>
          <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
-         <p> I'll add more info later! </p>  
+         <p> An application in which you can build a to-do list, with simple control over the items added. </p>  
          <p> You can check the repository <a href="https://github.com/zTiagok/trybe-04.todo-list"> right here</a>!</p>
          <br>
       </details>
@@ -134,7 +134,7 @@
         <span> <b> Conclusion Date: </b> 29/04/2022 📆 </span> <br>
          <span> <b> Version: </b> - 🧪 </span> <br>
          <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
-         <p> I'll add more info later! </p>  
+         <p> A simple application to create a meme with images you upload and a text described at your will. </p>  
          <p> You can check the repository <a href="https://github.com/zTiagok/trybe-05.meme-generator"> right here</a>!</p>
          <br>
       </details>
@@ -145,7 +145,7 @@
         <span> <b> Conclusion Date: </b> 30/04/2022 📆 </span> <br>
          <span> <b> Version: </b> - 🧪 </span> <br>
          <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
-         <p> I'll add more info later! </p>  
+         <p> An application designed to try to match the color corresponding to the RGB code that appears on the page. </p>  
          <p> You can check the repository <a href="https://github.com/zTiagok/trybe-06.color-guess"> right here</a>!</p>
          <br>
       </details>
@@ -156,7 +156,7 @@
         <span> <b> Conclusion Date: </b> 30/04/2022 📆 </span> <br>
          <span> <b> Version: </b> - 🧪 </span> <br>
          <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
-         <p> I'll add more info later! </p>  
+         <p> An application that converts the input sentence into clippings that simulate parts of magazines and newspapers. </p>  
          <p> You can check the repository <a href="https://github.com/zTiagok/trybe-07.mistery-letter"> right here</a>!</p>
          <br>
       </details>
