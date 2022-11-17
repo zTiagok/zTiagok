@@ -14,7 +14,7 @@
   <h3> :bust_in_silhouette: About Me :bust_in_silhouette: </h3>
 
   <p> 
-    I'm a Full-stack Web Developer Student at <a href="https://www.betrybe.com/"> Trybe </a>.
+    I'm a Full-stack Web Developer Student at <a href="https://www.betrybe.com/">Trybe</a>.
   </p>
 
   <p>
