@@ -14,12 +14,12 @@
   <h3> :bust_in_silhouette: About Me :bust_in_silhouette: </h3>
 
   <p> 
-    I'm a Full-stack Web Developer Student at Trybe, but I'm focusing on becoming a Front-end Developer.
+    I'm a Full-stack Web Developer Student at <a href="https://www.betrybe.com/"> Trybe </a>.
   </p>
 
   <p>
-    My dream is to be a Front-end Professional in a multinational. I would love to work using technologies such as React, Redux, Context API and so on, applying creative and responsible CSS to the application.
-    There's nothing better than seeing a website with a good response and clean designs.
+    My dream is to be a Full-stack Professional in a multinational. I would love to work using technologies such as React, Redux, NodeJS, Sequelize, Express and so on, applying creative and responsive pages to the application.
+    There's nothing better than seeing a properly responsive website with clean designs.
   </p>
   
   <p>
