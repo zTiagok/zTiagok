@@ -87,7 +87,7 @@
   <details>
   <summary> <h4> Highlights </h4> </summary>
     <div align="left">
-      <span> 01) <a href="https://github.com/zTiagok/riot-launcher"> Riot Games Launcher </a> - Personal Project </span> <br>
+      <span> 01) <a href="https://github.com/zTiagok/riot-games-launcher"> Riot Games Launcher </a> - Personal Project </span> <br>
       <span> 02) <a href="https://github.com/zTiagok/trybe-13.tryunfo"> Tryunfo </a> - Trybe Project </span>
     </div>
   </details>
