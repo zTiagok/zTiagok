@@ -14,7 +14,7 @@
   <h3> :bust_in_silhouette: About Me :bust_in_silhouette: </h3>
 
   <p> 
-    I'm a Full-stack Web Developer!</a>.
+    I'm a Full-stack Web Developer!
   </p>
 
   <p>
