@@ -14,16 +14,16 @@
   <h3> :bust_in_silhouette: About Me :bust_in_silhouette: </h3>
 
   <p> 
-    I'm a Full-stack Web Developer Student at <a href="https://www.betrybe.com/">Trybe</a>.
+    I'm a Full-stack Web Developer!</a>.
   </p>
 
   <p>
-    My dream is to be a Full-stack Professional in a multinational. I would love to work using technologies such as React, Redux, NodeJS, Sequelize, Express and so on, applying creative and responsive pages to the application.
+    My dream is to be a Full-stack Professional in a multinational. I would love to work applying creative and responsive pages to the application using technologies such as React, Redux, NodeJS, Sequelize, Express, and so on.
     There's nothing better than seeing a properly responsive website with clean designs.
   </p>
   
   <p>
-    Ever since I was young, I have always loved everything related to computers, technology and such. And today I am here, doing my best to become a great developer.
+    Ever since I was young, I have loved everything related to computers, technology, and such. And today I am here, doing my best to become a great developer.
   </p>
   
   <span> Check out <a href="https://ztiagok.github.io/"> my website</a>! </span> <br>
@@ -104,7 +104,7 @@
       </div>
      <br>
      <span> <b> Status: </b> In Development ⚠ </span> <br>
-     <span> <b> Version: </b> 1.0 (Not Commited) 🧪 </span> <br>
+     <span> <b> Version: </b> 1.0 (Not Committed) 🧪 </span> <br>
      <span> <b> Developers: </b> Tiago Braga Costa 👤 </span> <br> <br>
      <p> A Riot Games launcher replica. Using ReactJS, Tailwind CSS, Typescript/Javascript, NodeJS, Express, MySQL and others I try to simulate the functionality of the original launcher, but bringing other features to the application. </p>
      <p> You can check the repository <a href="https://github.com/zTiagok/riot-games-launcher"> right here</a>!</p>
@@ -153,7 +153,7 @@
          <br>
       </details>
       <details>
-        <summary> 0️4) - To Do List </summary>
+        <summary> 0️4) - To-Do List </summary>
         <br>
         <span> <b> Status: </b> Finished ✔️ </span> <br>
         <span> <b> Conclusion Date: </b> 29/04/2022 📆 </span> <br>
