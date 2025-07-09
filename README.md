@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Tiago Braga and I'm a Web Developer, from Rio de Janeiro, Brazil.</p>
+<p align="left">My name is Tiago Braga and I'm a Web Developer from Rio de Janeiro, Brazil.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022.<br>🎓 Education<br>- Bachelor's Degree in Computer Engineering at UCP (in progress)<br>- Graduated from Trybe’s Full Stack Web Development Program<br>- Daily self-learning through courses, projects, and documentation<br>🌱 I'm currently learning<br>- Back-end technologies such as Express, Prisma, MySQL, and MongoDB<br>🎯 Goals<br>- To enter the professional web development market, applying my current knowledge while continuously learning through real-world experience.</p>
+<p align="left">✨ Creating bugs since 2022.<br>🎓 Education<br>- Bachelor's Degree in Computer Engineering at UCP (In Progress)<br>- Graduated from Trybe’s Full Stack Web Development Program<br>- Daily self-learning through courses, projects, and documentation<br>🌱 I'm currently learning<br>- Back-end technologies such as Express, Prisma, MySQL, and MongoDB<br>🎯 Goals<br>- To enter the professional web development market, applying my current knowledge while continuously learning through real-world experience.</p>
 
 ###
 
